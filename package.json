@@ -1,6 +1,6 @@
 {
   "name": "redis-api-cache",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "for cache api with redis",
   "main": "./lib/index.js",
   "scripts": {
