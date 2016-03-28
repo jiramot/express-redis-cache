@@ -1,5 +1,5 @@
 {
-  "name": "express-redis-cache",
+  "name": "redis-api-cache",
   "version": "0.1.0",
   "description": "for cache api with redis",
   "main": "./lib/index.js",
