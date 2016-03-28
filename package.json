@@ -1,6 +1,6 @@
 {
   "name": "redis-api-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "for cache api with redis",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiramot/express-redis-cache.git"
+    "url": "git+https://github.com/jiramot/redis-api-cache.git"
   },
   "keywords": [
     "express",
